@@ -1,1 +1,13 @@
+name = "BankaiSMP"
+author = "Qwerty883"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
 
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d076710973decd879eecf021f38de9e8863e4e66acf12d1dc826ce798987dd54"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
